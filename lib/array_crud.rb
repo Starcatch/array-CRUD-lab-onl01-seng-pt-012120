@@ -3,7 +3,8 @@ def create_an_empty_array
   
 end
 
-def create_an_array = ["First", "Second", "Third", "Fourth"]
+def create_an_array 
+  ["First", "Second", "Third", "Fourth"]
   
 end
 
